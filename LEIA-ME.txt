@@ -1,0 +1,14 @@
+FLASH CAR STORE CAMPINAS — PACOTE PARA GITHUB PAGES
+
+1. Extraia este arquivo ZIP.
+2. No repositório do GitHub, abra a aba Code.
+3. Clique em Add file > Upload files.
+4. Envie TODOS os arquivos e a pasta assets para a raiz do repositório.
+5. Confirme em Commit changes.
+6. Em Settings > Pages, escolha Deploy from a branch.
+7. Selecione main e /(root), depois clique em Save.
+
+O endereço ficará no formato:
+https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+
+Importante: index.html precisa ficar na raiz do repositório, não dentro de outra pasta.
